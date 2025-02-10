@@ -14,4 +14,8 @@ In this project, I utilized the NetHealth Data Set to determine whether racially
 In this project, I used sentiment analysis of Reddit posts of certain stock tickers to determine whether the average daily positive and negative sentiment scores of that stock on each day over a year accurately predicted whether the price of the stock increased or decreased. Using RStudio, 3 different sentiment packages, and web scraping with pushshift API, I came to many conclusions regarding the validity of sentiment analysis and where to move forward after this project.
 
 #
+<img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/penguins.jpg"> **[Palmer Penguins Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/basic-streamlit-app)**
+
+In this project for Portfolio Update 1, I created a Streamlit app in which the user filters a species of penguin from the Palmer Penguins Dataset and the app produces the summary statistics of the species of penguin. 
+
 
