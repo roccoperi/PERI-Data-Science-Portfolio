@@ -16,7 +16,7 @@ In this project, I used sentiment analysis of Reddit posts of certain stock tick
 #
 <img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/penguins.jpg"> **[Palmer Penguins Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/basic-streamlit-app)**
 
-In this project for Portfolio Update 1, I created a Streamlit app in which the user filters a species of penguin from the Palmer Penguins Dataset and the app produces the summary statistics of the species of penguin. 
+In this project for Portfolio Update 1, I created a Streamlit app in which the user filters a species of penguin from the Palmer Penguins Dataset and the app produces the summary statistics of the species of penguin. This project provided invaluable knowledge in streamlit, an application that makes communicating data not only effective, but pleasant to read through.
 
 <img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/2008%20olympics.jpg"> **[Tidy Data Project](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/TidyData-Project)**
 
