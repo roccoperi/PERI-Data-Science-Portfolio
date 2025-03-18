@@ -20,14 +20,15 @@ The dataset used was the [2008 Olympic Medalists](https://edjnet.github.io/Olymp
 <img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/Cleaning%20Code.png"> 
 
   *In Order*
-    **Code Used to Clean Data**
+  
+    [Code Used to Clean Data](https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/Cleaning%20Code.png)
 
 <img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/barchart.png"> 
 
-    **Ascention of Total Medals by Event**
+    [Ascention of Total Medals by Event](https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/barchart.png)
 
 <img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/histogram.png"> 
 
-    **Histogram of Events by Total Medals**
+    [Histogram of Events by Total Medals](https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/histogram.png)
 
 
