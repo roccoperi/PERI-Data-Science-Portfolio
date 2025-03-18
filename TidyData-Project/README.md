@@ -17,8 +17,16 @@ The dataset used was the [2008 Olympic Medalists](https://edjnet.github.io/Olymp
 - [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf)
 
 ## Images
-<img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/Cleaning%20Code.png"> **Code Used to Clean Data**
-<img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/barchart.png"> **Ascention of Total Medals by Event**
-<img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/histogram.png"> **Histogram of Events by Total Medals**
+<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/Cleaning%20Code.png"> 
+
+**Code Used to Clean Data**
+
+<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/barchart.png"> 
+
+**Ascention of Total Medals by Event**
+
+<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/histogram.png"> 
+
+**Histogram of Events by Total Medals**
 
 
