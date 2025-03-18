@@ -18,6 +18,8 @@ In this project, I used sentiment analysis of Reddit posts of certain stock tick
 
 In this project for Portfolio Update 1, I created a Streamlit app in which the user filters a species of penguin from the Palmer Penguins Dataset and the app produces the summary statistics of the species of penguin. 
 
+
+
 <img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/2008%20olympics.jpg"> **[Tidy Data Project](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/TidyData-Project)**
 
 In this project for Portfolio Update 2, I created a Jupyter Notebook, detailing how I used tidy data principless and Pandas functions to clean the 2008 Olympic Medalist dataset and create visualizations that provided insight into the basis of event selection of the Olympics. This project provides a great stepping stone for me in my Data Science journey, as I now understand the methods used and the importance of cleaning data prior to interpretation. I hope I translate what I learned into all future projects. 
