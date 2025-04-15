@@ -6,18 +6,21 @@ This project aims to provide the user with a brief introduction to three extreme
 
 ## Instructions
 You can view my project in two ways: the Streamlit Cloud or running the Streamlit app locally. 
-1. Streamlit Cloud:
-2. Local Access: To access my Streamlit app locally, download the main.py file in this repository and open it in Visual Studio Code. Make sure that the file is in the directory you are currently working within VS code. If you have not already, install Streamlit on VS Code using the command *pip install streamlit*. Then, you will run the command streamlit run /*where the file is located* to open my Streamlit app locally. 
+1. Streamlit Cloud: To access my Streamlit app via the Streamlit Cloud, use this **[link](https://peri-data-science-portfolio-bclqv6kiypneixue5ptnwv.streamlit.app/)**
+2. Local Access: To access my Streamlit app locally, download the main.py file in this repository and open it in Visual Studio Code. Make sure that the file is in the directory you are currently working within VS code. If you have not already, install Streamlit on VS Code using the command *pip install streamlit*. Then, you will run the command *streamlit run .\main.py* to run my app on a local server. 
 
 ## App Features 
 Models 
-1. Linear Regression
-     The user can choose between unscaled or scaled data depending on whether they want more accurate coefficient estimates.
+1. Linear Regression: The user can choose between unscaled or scaled data depending on whether they want more accurate coefficient estimates.
+
 2. Logistic Regression
-3. Decision Trees
-     The user has three options to customize the decision trees...
+
+3. Decision Trees: The user has three options to customize the decision trees...
+   
          1. Preset Hyperparameters: The decision tree with preset hyperparameters which include using the Gini Impurity Criterion, no max depth, a minimum sample split of 2 and a minimum sample leaf size of 1.
+   
          2. Customized Hyperparameters: The user has the option to adjust the aforementioned hyperparameters and see how a change in one or two of the parameters affects model performance.
+   
          3. The Best Combination of Hyperparameters: The model is put through GridSearchCV to find the optimal hyperparameters to produce the best ML model.
    
 ## References 
@@ -27,17 +30,14 @@ Models
 - [Flower Dataset](https://www.kaggle.com/datasets/niranjandasmm/irisnumericdatasetcsv)
 
 ## Images
-<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/Cleaning%20Code.png"> 
+<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Selecting%20of%20Variables%20for%20ML%20Model.png"> 
 
   *In Order*
   
-    Code Used to Clean Data
+     Variable Selection
 
-<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/barchart.png"> 
+<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Customized%20Decision%20Tree.png"> 
 
-    Ascension of Total Medals by Event
+     Customizeable Decision Tree 
 
-<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/TidyData-Project/images/histogram.png"> 
-
-    Histogram of Events by Total Medals
 
