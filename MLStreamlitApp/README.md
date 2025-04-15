@@ -33,6 +33,7 @@ Models
 <img align="left" width="360" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Selecting%20of%20Variables%20for%20ML%20Model.png"> 
 <img align="left" width="360" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Customized%20Decision%20Tree.png"> 
 
-     Selection of Variables          Customizable Decision Tree 
+     Selection of Variables          
+     Customizable Decision Tree 
 
 
