@@ -2,7 +2,7 @@
 Hello! In this project, I implemented and presented three machine-learning models the user can work with in my Streamlit app. Within these models, the user can hyper-tune the models such that they can see how tuning certain aspects of the ML model affects its overall performance. The user has the option of uploading their data that they can run the ML models on, but I have also provided sample introductory datasets that can allow the user to initially work with the data with relative ease. 
 
 ## Project Overview
-This project aims to provide the user with a brief introduction to three extremely useful machine learning models: linear regression, logistic regression, and decision trees. All over the world, machine learning is becoming not only more mainstream but also more powerful in its ability to perform tasks and predict future outcomes. Examples of this include Meta AI, Chat GPT 4-o, Google Gemini, Palantir applications, government defence operations, and so on. Therefore, providing a brief introduction to machine learning models through my Streamlit app provides a glimpse into how ML models work, their application in predicting target variables, and how certain parameters can be fine-tuned for optimization purposes. In my app, the user is prompted to upload a CSV file from which the user picks the predictor variables (X) and the target variable (Y) that is going to be inputted into the machine learning model. Then, the user has the option to choose from three different ML models depending on the nature of their data and the values it contains. Finally, within the models, there are opportunities for hyper-tuning, using unscaled or scaled data, and the opportunity to see how the models performed in terms of key performance metrics and the confusion matrices. I hope that whoever views my Streamlit app or runs the program locally will obtain a basic knowledge of how ML models work and become inspired as to the future applications of ML models. 
+This project aims to provide the user with a brief introduction to three extremely useful machine learning models: linear regression, logistic regression, and decision trees. All over the world, machine learning is becoming not only more mainstream but also more powerful in its ability to perform tasks and predict future outcomes. Examples of this include Meta AI, Chat GPT 4-o, Google Gemini, Palantir applications, government defence operations, and so on. Therefore, providing a brief introduction to machine learning models through my Streamlit app provides a glimpse into how ML models work, their application in predicting target variables, and how certain parameters can be fine-tuned for optimization purposes. In my app, the user is prompted to upload a CSV file from which the user picks the predictor variables (X) and the target variable (Y) that is going to be inputted into the machine learning model. Then, the user has the option to choose from three different ML models depending on the nature of their data and the values it contains. Finally, within the models, there are opportunities for hyper-tuning, using unscaled or scaled data, and the opportunity to see how the models performed in terms of key performance metrics and the confusion matrices. I hope that whoever views my Streamlit app or runs the program locally will obtain a basic knowledge of how ML models work and become inspired by the future applications of ML models. 
 
 ## Instructions
 You can view my project in two ways: the Streamlit Cloud or running the Streamlit app locally. 
@@ -30,14 +30,14 @@ Models
 - [Flower Dataset](https://www.kaggle.com/datasets/niranjandasmm/irisnumericdatasetcsv)
 
 ## Images
-<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Selecting%20of%20Variables%20for%20ML%20Model.png"> 
+<img align="left" width="500" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Selecting%20of%20Variables%20for%20ML%20Model.png"> 
 
   *In Order*
   
      Variable Selection
 
-<img align="left" width="500" height="300" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Customized%20Decision%20Tree.png"> 
+<img align="left" width="500" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLStreamlitApp/photos/Customized%20Decision%20Tree.png"> 
 
-     Customizeable Decision Tree 
+     Customizable Decision Tree 
 
 
