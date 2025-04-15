@@ -17,11 +17,11 @@ Models
 
 3. Decision Trees: The user has three options to customize the decision trees...
    
-1. Preset Hyperparameters: The decision tree with preset hyperparameters which includes using the Gini Impurity Criterion, no max depth, a minimum sample split of 2 and a minimum sample leaf size of 1.
+   1. Preset Hyperparameters: The decision tree with preset hyperparameters which includes using the Gini Impurity Criterion, no max depth, a minimum sample split of 2 and a minimum sample leaf size of 1.
    
-2. Customized Hyperparameters: The user has the option to adjust the aforementioned hyperparameters and see how a change in one or two of the parameters affects model performance.
+   2. Customized Hyperparameters: The user has the option to adjust the aforementioned hyperparameters and see how a change in one or two of the parameters affects model performance.
    
-3. The Best Combination of Hyperparameters: The model is put through GridSearchCV to find the optimal hyperparameters to produce the best ML model.
+   3. The Best Combination of Hyperparameters: The model is put through GridSearchCV to find the optimal hyperparameters to produce the best ML model.
    
 ## References 
 - [Pandas Cheat](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
