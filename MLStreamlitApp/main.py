@@ -227,7 +227,7 @@ if uploaded_file is not None:
             - Recall: True Positive Rate 
                 - Of all actual positives, how many did the model correctly identify?
             - F1-Score: Balanced Mean of Precision and Recall""")
-        if tree_type == "Best Combination of Hyper Parameters":
+        if tree_type == "Best Combination of Hyperparameters":
             X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
             param_grid = {
                 'criterion': ['gini', 'entropy', 'log_loss'],
