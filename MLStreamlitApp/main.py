@@ -13,7 +13,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import roc_curve, roc_auc_score
 from sklearn.metrics import mean_squared_error, root_mean_squared_error, r2_score
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
@@ -265,8 +264,3 @@ if uploaded_file is not None:
                 - Of all actual positives, how many did the model correctly identify?
             - F1-Score: Balanced Mean of Precision and Recall""")
             
-
-
-
-
-
