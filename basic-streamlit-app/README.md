@@ -24,4 +24,4 @@ You can view my project by running the Streamlit app locally.
 
 ## Images
 **Average Summary Statistics**
-<img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/basic-streamlit-app/images/output.png"> 
+<img align="left" width="800" height="600" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/basic-streamlit-app/images/output.png"> 
