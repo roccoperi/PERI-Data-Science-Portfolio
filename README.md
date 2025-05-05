@@ -1,6 +1,15 @@
 # Data Science Portfolio - Rocco Peri
 This Portfolio is a compilation of my previous and future Data Science and Data Analysis projects I have done/will do for academic and personal purposes. I hope that through the projects presented on this page, my personal interests and passions shine through. Over this semester, I plan on adding to the projects with links to their specific repositories, in which I will use images and code to properly convey the work done throughout my last semester at Notre Dame. 
 
+## At a Glance
+Here, you will find links to all my projects: 
+- **[Net Health Project](https://github.com/roccoperi/Net-Health-Project):** Prominence of same-race relationships at Notre Dame
+- **[Can Sentiment Analysis Predict Stock Performance?](https://github.com/roccoperi/Reddit-Sentiment-Analysis-For-Modeling-Stock-Performance):** Reddit Scraping API to Predict Stock Market Movements
+- **[Palmer Penguins Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/basic-streamlit-app):** Streamlit App Calculating Average Summary Statistics of Palmer Penguins
+- **[Tidy Data Project](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/TidyData-Project):** Tidy Principles Jupyter Notebook
+- **[ML Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/MLStreamlitApp):** Supervised Machine Learning Model Streamlit App
+-  **[Unsupervised ML Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/MLUNsupervisedApp):** Unsupervised Machine Learning Model Streamlit App
+
 ## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/images/networks.png"> **[Net Health Project](https://github.com/roccoperi/Net-Health-Project)**
