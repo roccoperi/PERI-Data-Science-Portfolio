@@ -32,7 +32,7 @@ datasets prior to using my app, and my app would not have functioned properly wi
 into numerical values such that the unsupervised machine learning models can interact with the data in a meaningful way. Thus, I hope that my app is a lot easier to navigate through, and 
 I believe that you will learn a lot about unsupervised machine learning through my app. 
             
-- I uploaded the non-preprocessed but simplified **[Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/)** dataset in my **[sample datasets](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/MLUNsupervisedApp/sample%20datasets) folder along with the non-processed 
+- I uploaded the non-preprocessed but simplified **[Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/)** dataset in my **[sample datasets](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/MLUNsupervisedApp/sample%20datasets)** folder along with the non-processed 
 **[Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)**. Please feel free to explore my app using those two datasets, but you are free to utilize whatver dataset you would like to test 
 the unsupervised machine learning models on.""")
 
