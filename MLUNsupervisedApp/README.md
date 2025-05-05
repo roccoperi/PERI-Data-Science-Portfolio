@@ -37,7 +37,7 @@ If the user has categorical variables that they would like to include in the uns
 - [Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/articles/intro.html)
 
 ## Images
-<img align="left" width="360" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/dendogram.png"> 
+<img align="left" width="720" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/dendogram.png"> 
 <img align="left" width="360" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/pca%20variance.png"> 
 <img align="left" width="360" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/true_labels_kmeans.png"> 
 **From Left to Right:**
