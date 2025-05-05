@@ -25,7 +25,7 @@ st.markdown("""In this application, you can...
             
 **Hyperparameter Tuning**: Choose different parameters for the models (n_clusters, k, linkage) to see the impact the parameters have on the model performance + presentation.
                       
-**View Metrics and Displays**: See model metrics such as Explained Variance Ratio, Cumulative Explained Variance, Optimal K, Principal Component Projections, & Dendrograms. 
+**View Metrics and Displays**: See model metrics and displays such as Explained Variance Ratio, Cumulative Explained Variance, Optimal K, Principal Component Projections, & Dendrograms. 
             
 You are free to use whatever datasets you like in this machine learning application. In a previous machine learning project, I ultimately forced the users of my app to preprocess thier 
 datasets prior to using my app, and my app would not have functioned properly without such preprocessing. However, in this new and improved version, I have added the means through which missing values can be taken out of the dataset and categorical variables can turn 
