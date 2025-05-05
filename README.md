@@ -16,16 +16,22 @@ In this project, I used sentiment analysis of Reddit posts of certain stock tick
 #
 <img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/images/penguins.jpg"> **[Palmer Penguins Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/basic-streamlit-app)**
 
-In this project for Portfolio Update 1, I created a Streamlit app in which the user filters a species of penguin from the Palmer Penguins Dataset and the app produces the summary statistics of the species of penguin. This project provided invaluable knowledge in streamlit, an application that makes communicating data not only effective, but pleasant to read through.
+In this project for Portfolio Update 1, I created a Streamlit app in which the user filters a species of penguin from the Palmer Penguins Dataset, and the app produces the summary statistics of the species of penguin. This project provided invaluable knowledge in Streamlit, an application that makes communicating data not only effective, but pleasant to read through.
 
+#
 <img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/images/2008%20olympics.jpg"> **[Tidy Data Project](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/TidyData-Project)**
 
-In this project for Portfolio Update 2, I created a Jupyter Notebook, detailing how I used tidy data principless and Pandas functions to clean the 2008 Olympic Medalist dataset and create visualizations that provided insight into the basis of event selection of the Olympics. This project provides a great stepping stone for me in my Data Science journey, as I now understand the methods used and the importance of cleaning data prior to interpretation. 
+In this project for Portfolio Update 2, I created a Jupyter Notebook, detailing how I used tidy data principles and Pandas functions to clean the 2008 Olympic Medalist dataset and create visualizations that provided insight into the basis of event selection of the Olympics. This project provides a great stepping stone for me in my Data Science journey, as I now understand the methods used and the importance of cleaning data before interpretation. 
 
+#
 <img align="left" width="250" height="200" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/images/ML.png"> **[ML Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/MLStreamlitApp)** 
 
-In this project for Portfolio Update 3, I created a Streamlit App that allows the user to interact with and optimize three different machine learning models using inputted data. This building of this app allowed me to understand the importance of ML model optimization, as I realized that both minor and major tweaks can drastically improve and accelerate real-life applications of machine learning models. This app also builds upon previous Python modules such as pandas and seaborn, and learning how to integrate these modules with Streamlit proved to be challenging, but very helpful in my data visualization and expression journey. 
+In this project for Portfolio Update 3, I created a Streamlit App that allows the user to interact with and optimize three different machine learning models using input data. The building of this app allowed me to understand the importance of ML model optimization, as I realized that both minor and major tweaks can drastically improve and accelerate real-life applications of machine learning models. This app also builds upon previous Python modules such as pandas and seaborn, and learning how to integrate these modules with Streamlit proved to be challenging, but very helpful in my data visualization and expression journey. 
 
+#
+https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/images/unsupervised.webp
+<img align="left" width="250" height="200" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/images/unsupervised.webp"> **[Unsupervised ML Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/MLUNsupervisedApp)**
 
+For my final project in my Introduction to Data Science Class, I created and uploaded a Streamlit app that allows the user to upload their dataset, handle missing values and categorical variables, and interact with/optimize 3 different unsupervised machine learning models. In creating this app, I learned that even tiny adjustments of hyperparameters can have a drastic impact on the performance of these machine learning models and that the complexity of certain datasets can either dampen or boost the predictability of certain models. Furthermore, I researched the interaction between Streamlit and Matplotlib, and although the syntax required to integrate these two modules was challenging to discover, it ultimately allowed me to produce a cohesive Streamlit app that I hope users will get a lot of benefit out of. 
 
 
