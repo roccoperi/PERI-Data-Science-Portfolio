@@ -16,8 +16,8 @@ The user has the option to choose any column in their uploaded dataset and fill 
 - Drop Rows with Missing Values
 - Drop Columns with >50% of the Values Missing
 - Impute the Mean of the Column for the Missing Values
-- 5. Impute the Median of the Column for the Missing Values
-- 6. Impute 0 for the Missing Values in the Column
+- Impute the Median of the Column for the Missing Values
+- Impute 0 for the Missing Values in the Column
 
 ### Handling Categorical Variables 
 If the user has categorical variables that they would like to include in the unsupervised machine learning algorithm, then they have the option to select those variables to be converted into a numeric form 
@@ -43,6 +43,7 @@ If the user has categorical variables that they would like to include in the uns
 **Scree Plot from PCA**
 
 <img align="left" width="800" height="600" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/pca%20variance.png"> 
+
 
 **True Labels Projection from K-Means Clustering**
 
