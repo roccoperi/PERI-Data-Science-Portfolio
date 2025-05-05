@@ -23,3 +23,5 @@ You can view my project by running the Streamlit app locally.
 - [Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/articles/intro.html)
 
 ## Images
+**Average Summary Statistics**
+<img align="left" width="250" height="150" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/basic-streamlit-app/images/output.png"> 
