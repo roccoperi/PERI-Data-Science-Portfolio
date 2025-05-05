@@ -12,12 +12,12 @@ You can view my project in two ways: the Streamlit Cloud or running the Streamli
 ## App Features
 ### Handling Missing Data
 The user has the option to choose any column in their uploaded dataset and fill the missing values in the column with different values based on 6 different choices. These choices include...
-     1. Keep the Original Column
-     2. Drop Rows with Missing Values
-     3. Drop Columns with >50% of the Values Missing
-     4. Impute the Mean of the Column for the Missing Values
-     5. Impute the Median of the Column for the Missing Values
-     6. Impute 0 for the Missing Values in the Column
+- Keep the Original Column
+- Drop Rows with Missing Values
+- Drop Columns with >50% of the Values Missing
+- Impute the Mean of the Column for the Missing Values
+- 5. Impute the Median of the Column for the Missing Values
+- 6. Impute 0 for the Missing Values in the Column
 
 ### Handling Categorical Variables 
 If the user has categorical variables that they would like to include in the unsupervised machine learning algorithm, then they have the option to select those variables to be converted into a numeric form 
@@ -37,16 +37,16 @@ If the user has categorical variables that they would like to include in the uns
 - [Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/articles/intro.html)
 
 ## Images
-<img align="left" width="720" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/dendogram.png"> 
-<img align="left" width="360" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/pca%20variance.png"> 
-<img align="left" width="360" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/true_labels_kmeans.png"> 
+**Dendrogram from Hierarchical Clustering**
+<img align="center" width="900" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/dendogram.png"> 
+
+**Scree Plot from PCA**
+<img align="center" width="500" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/pca%20variance.png"> 
+
+**True Labels Projection from K-Means Clustering**
+<img align="center" width="500" height="500" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/true_labels_kmeans.png"> 
 **From Left to Right:**
 
-Dendrogram from Hierarchical Clustering
-
-Scree Plot from PCA
-
-True Labels Projection from K-Means Clustering
 
 
 
