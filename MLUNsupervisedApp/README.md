@@ -21,7 +21,7 @@ The user has the option to choose any column in their uploaded dataset and fill 
 
 ### Handling Categorical Variables 
 If the user has categorical variables that they would like to include in the unsupervised machine learning algorithm, then they have the option to select those variables to be converted into a numeric form 
- - Note: The assignment of such numeric values to the categories is done through labeling the columns as the type("category") and then using the pandas function *x.cat.codes*. For documentation, see **[here](https://pandas.pydata.org/docs/reference/api/pandas.Series.cat.codes.html)**
+ - Note: The assignment of such numeric values to the categories is done through labeling the columns as the type("category") and then using the pandas function *x.cat.codes*. For documentation, see **[here](https://pandas.pydata.org/docs/reference/api/pandas.Series.cat.codes.html).**
 
 ### Models 
 1. Principal Component Analysis: The user can choose the number of components to be included in the PCA. 
