@@ -7,8 +7,7 @@ This project aims to show how unsupervised machine learning models can provide i
 ## Instructions
 You can view my project in two ways: the Streamlit Cloud or running the Streamlit app locally. 
 1. Streamlit Cloud: To access my Streamlit app via the Streamlit Cloud, use this **[link](https://peri-data-science-portfolio-klr2q4kefbndjg4fcddwne.streamlit.app/)**
-2. Local Access: To access my Streamlit app locally, download the main.py file in this repository and open it in Visual Studio Code. Make sure that the file is in the directory you are currently working in VS Code. If you have not already, install Streamlit on VS Code using the command *pip install streamlit*. Then, you will run the command *streamlit run .\main.py* to run my app on a local server.
-- For Local Access, you need to install the proper dependencies. The dependencies and the versions that you need to install are located in the *[requirements.txt](https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/requirements.txt)*.
+2. Local Access: To access my Streamlit app locally, download the main.py file in this repository and open it in Visual Studio Code. Make sure that the file is in the directory you are currently working in VS Code. If you have not already, install Streamlit on VS Code using the command *pip install streamlit*. Then, you will run the command *streamlit run .\main.py* to run my app on a local server. For Local Access, you need to install the proper dependencies. The dependencies and the versions that you need to install are located in the *[requirements.txt](https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/requirements.txt)*.
 
 ## App Features
 ### Handling Missing Data
