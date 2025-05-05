@@ -77,7 +77,7 @@ if uploaded_file is not None:
         else: 
             st.write("Your dataset no longer has missing values, lets proceed with alternative data wrangling methods.")
             # Prompting the user to input whether they have categorical variables in the dataset
-            st.markdown("If you want any categorical variables in the dataset to be includes as the feature or target variable, you need to convert it to a numeric form before the unsupervised machine learning models can interact with it.")
+            st.write("If you want any categorical variables in the dataset to be includes as the feature or target variable, you need to convert it to a numeric form before the unsupervised machine learning models can interact with it.")
             categorical = st.selectbox("Do you have any categorical variables in your dataset?", ("Yes", "No"), index = None, placeholder = "~") 
             if categorical == "Yes": # If the user has categorical variables
                 #Prompting the user to input thier categorical variables
