@@ -42,13 +42,13 @@ If the user has categorical variables that they would like to include in the uns
 
 **Scree Plot from PCA**
 
-<img align="left" width="800" height="600" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/pca%20variance.png"> 
+<img align="center" width="800" height="600" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/pca%20variance.png"> 
 
 
 **True Labels Projection from K-Means Clustering**
 
-<img align="left" width="800" height="600" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/true_labels_kmeans.png"> 
-**From Left to Right:**
+<img align="center" width="800" height="600" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/MLUNsupervisedApp/images/true_labels_kmeans.png"> 
+
 
 
 
