@@ -22,4 +22,10 @@ In this project for Portfolio Update 1, I created a Streamlit app in which the u
 
 In this project for Portfolio Update 2, I created a Jupyter Notebook, detailing how I used tidy data principless and Pandas functions to clean the 2008 Olympic Medalist dataset and create visualizations that provided insight into the basis of event selection of the Olympics. This project provides a great stepping stone for me in my Data Science journey, as I now understand the methods used and the importance of cleaning data prior to interpretation. 
 
+<img align="left" width="250" height="175" src="https://github.com/roccoperi/PERI-Data-Science-Portfolio/blob/main/images/ML.png"> **[ML Streamlit App](https://github.com/roccoperi/PERI-Data-Science-Portfolio/tree/main/MLStreamlitApp)** 
+
+In this project for Portfolio Update 3, I created a Streamlit App that allows the user to interact with and optimize three different machine learning models using inputted data. This building of this app allowed me to understand the importance of ML model optimization, as I realized that both minor and major tweaks can drastically improve and accelerate real-life applications of machine learning models. This app also builds upon previous Python modules such as pandas and seaborn, and learning how to integrate these modules with Streamlit proved to be challenging, but very helpful in my data visualization and expression journey. 
+
+
+
 
